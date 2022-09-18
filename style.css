@@ -106,6 +106,7 @@ div#output-div {
   border-radius: 1rem;
   height: 10vh;
   position: relative;
+  overflow: scroll;
 }
 
 /* background-images */
